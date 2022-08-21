@@ -1,0 +1,2 @@
+# SWEBO
+a Discord bot
